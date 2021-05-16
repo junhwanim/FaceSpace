@@ -11,16 +11,16 @@ This project comprises __HTML__, __React__, __JavaScript__, __Node.js__, __Expre
 ## Screenshots
 
 Homepage
-<img src="_screenshots/img1.png" style="width:100%"/>
+<img src="_screenshots /img1.png" style="width:100%"/>
 
 Sign-in page
-<img src="_screenshots/img2.png" style="width:100%"/>
+<img src="_screenshots /img2.png" style="width:100%"/>
 
 Friends and yourself
-<img src="_screenshots/img3.png" style="width:100%"/>
+<img src="_screenshots /img3.png" style="width:100%"/>
 
 Profile page
-<img src="_screenshots/img4.png" style="width:100%"/>
+<img src="_screenshots /img4.png" style="width:100%"/>
 
 ## Setup
 
