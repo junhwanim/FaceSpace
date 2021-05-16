@@ -11,7 +11,7 @@ This project comprises __HTML__, __React__, __JavaScript__, __Node.js__, __Expre
 ## Screenshots
 
 Homepage
-![Alt text](./_screenshots/img1.png)
+![](_screenshots/img1.png)
 
 Sign-in page
 <img src="_screenshots/img2.png" style="width:100%"/>
